@@ -17,9 +17,19 @@ This is a simple C# Windows Forms project for managing medical appointments.
 ## Manage Appointments
 <img width="641" height="379" alt="Screenshot 2025-08-19 114916" src="https://github.com/user-attachments/assets/086f1276-ec5d-46cf-8366-f0eafaa37046" />
 
-
 ## Database View
 <img width="370" height="123" alt="Screenshot 2025-08-19 115518" src="https://github.com/user-attachments/assets/ed7291bf-5ee0-4253-821a-4827335ba6f6" />
 <img width="320" height="101" alt="Screenshot 2025-08-19 115540" src="https://github.com/user-attachments/assets/23b91b15-f825-4c9b-a44f-befbf6429cec" />
 <img width="419" height="77" alt="Screenshot 2025-08-19 115557" src="https://github.com/user-attachments/assets/58c3e732-b024-43ee-811d-d33b4a727b2c" />
 
+
+
+# Pharmacy Management System
+This is a simple C# Windows Forms project for managing a pharmacy 
+
+## Main Form
+<img width="986" height="587" alt="Screenshot 2025-08-19 162916" src="https://github.com/user-attachments/assets/cba55bed-c121-47a6-90f5-9893cc43f8ac" />
+
+## Database View
+<img width="370" height="65" alt="Screenshot 2025-08-19 162737" src="https://github.com/user-attachments/assets/ab8171a8-1dcb-40d5-9828-ddc0fb241199" />
+<img width="409" height="59" alt="Screenshot 2025-08-19 162815" src="https://github.com/user-attachments/assets/23be0000-4e15-476b-a125-46b1f6378395" />
